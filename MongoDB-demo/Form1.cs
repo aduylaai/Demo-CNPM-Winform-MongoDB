@@ -29,7 +29,7 @@ namespace MongoDB_demo
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            // Không cần thêm gì ở đây nếu không có hành động cụ thể
+            
         }
 
         private void btnLoadKhach_Click(object sender, EventArgs e)
